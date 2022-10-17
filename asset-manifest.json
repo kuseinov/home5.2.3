@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/homeWork-5.2.3/static/css/main.6ab095b3.css",
-    "main.js": "/github.io/homeWork-5.2.3/static/js/main.78ae2d88.js",
-    "index.html": "/github.io/homeWork-5.2.3/index.html",
-    "main.6ab095b3.css.map": "/github.io/homeWork-5.2.3/static/css/main.6ab095b3.css.map",
-    "main.78ae2d88.js.map": "/github.io/homeWork-5.2.3/static/js/main.78ae2d88.js.map"
+    "main.css": "/home5.2.3/static/css/main.6ab095b3.css",
+    "main.js": "/home5.2.3/static/js/main.78ae2d88.js",
+    "index.html": "/home5.2.3/index.html",
+    "main.6ab095b3.css.map": "/home5.2.3/static/css/main.6ab095b3.css.map",
+    "main.78ae2d88.js.map": "/home5.2.3/static/js/main.78ae2d88.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab095b3.css",
